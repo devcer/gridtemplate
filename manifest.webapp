@@ -1,0 +1,15 @@
+{
+  "name": "Grid Template",
+  "description": "My elevator pitch goes here",
+  "launch_path": "/grid.html",
+  "icons": {
+    "60": "/logo/logo60.png",
+    "64": "/logo/logo64.png",
+    "128": "/logo/logo128.png"
+  },
+  "developer": {
+    "name": "Santosh Viswanatham",
+    "url": "http://about.me/viswanathamsantosh"
+  },
+  "default_locale": "en"
+}
